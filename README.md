@@ -1,2 +1,2 @@
 # test-eclipse-git
-Repository for learn git
+Eclipseによるリポジトリの基本操作
